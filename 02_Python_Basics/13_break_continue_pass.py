@@ -45,3 +45,20 @@ while count <= 5:
     print(count)
 
 print("Done")
+
+#pass
+age = 18
+
+if age >= 18:
+    pass
+
+print("Eligible")
+
+for i in range(1, 5):
+
+    if i == 2:
+        pass
+
+    print(i)
+
+print("Done")
